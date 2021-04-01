@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "jamesmith youtube mern",
+    "mongoURI": "mongodb+srv://jamesmith:Turing.1954@cluster0.z9q2i.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
