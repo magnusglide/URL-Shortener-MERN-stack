@@ -1,5 +1,5 @@
 {
-  "name": "mern-project-1",
+  "name": "url-shortener",
   "version": "1.0.0",
   "description": "Mern Stack",
   "main": "app.js",
@@ -15,7 +15,7 @@
     "mern",
     "react"
   ],
-  "author": "John Smith <test@gmail.com>",
+  "author": "Magnus <test@mail.com>",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
