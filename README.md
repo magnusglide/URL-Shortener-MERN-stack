@@ -1,5 +1,5 @@
 # URL-Shortener-MERN-stack
-URL shortener. You can sign in, create custom short links, store them in your account and see the number of clicks on these short links. It is a MERN Stack project with Mongo Atlas and password hashing, created thanks to a Youtube Tutorial.
+URL shortener. You can sign in, create custom short links, store them in your account and see the number of clicks on these short links. It is a MERN Stack project with Mongo Atlas, password hashing, React Hooks and Components, created thanks to a Youtube Tutorial.
 
 Before using - change in the config folder json files. You will need a Mongo Atlas account (I have used a free one). To connect Atlas with the app - you need a String for an app made for your cluster.
 
