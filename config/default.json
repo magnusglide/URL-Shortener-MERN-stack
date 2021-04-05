@@ -1,6 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "just a random sentence",
-    "mongoURI": "Mongi Atlas URI for an APP",
+    "mongoURI": ""mongodb+srv://jamesmith:qwer1234@cluster0.z9q2i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"",
     "baseUrl": "http://localhost:5000"
 }
