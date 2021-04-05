@@ -9,8 +9,7 @@
     "client": "npm run start --prefix client",
     "client:install": "npm install --prefix client",
     "client:build": "npm run build --prefix client",
-    "dev": "cross-env NODE_ENV=development concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
+    "dev": "cross-env NODE_ENV=development concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [
     "mern",
@@ -31,9 +30,5 @@
     "concurrently": "^6.0.0",
     "cross-env": "^7.0.3",
     "nodemon": "^2.0.7"
-  },
-  "engines": {
-        "node": "10.16.0",
-        "npm": "6.14.11",
-    }
+  }
 }
