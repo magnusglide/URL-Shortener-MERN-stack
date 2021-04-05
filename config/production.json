@@ -2,5 +2,5 @@
     "port": 80,
     "jwtSecret": "just a random sentence",
     "mongoURI": "mongodb cluster uri",
-    "baseUrl": "https://url-shortener-8.herokuapp.com"
+    "baseUrl": "http://localhost:5000"
 }
